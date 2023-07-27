@@ -4,8 +4,6 @@ PG_PORT=5555
 PG_USER=test
 PG_PASSWORD=test
 PG_DBNAME=test
-DOCKER_NAME=test
-DDL_NAME=init.ddl
 
 # set env variables
 echo "PG_HOST=$PG_HOST" > second/.env
